@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'personal blog',
 
   // social usernames (optional)
-  twitter: 'ohplz',
+//   twitter: 'ohplz',
   github: 'ohplz',
 //   linkedin: 'ohplz',
   // newsletter: '#', // optional newsletter URL
