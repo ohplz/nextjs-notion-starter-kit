@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'personal blog',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'ohplz',
+  github: 'ohplz',
+//   linkedin: 'ohplz',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
