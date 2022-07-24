@@ -78,8 +78,8 @@ export const PageHead: React.FC<
 
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
-      <meta name="theme-color" content="white" media="(prefers-color-scheme: light)" />
-      <meta name="theme-color" content="#2f3437" media="(prefers-color-scheme: dark)" />
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="white">
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2f3437">
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="default" />
       
