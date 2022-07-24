@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ohplz',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://ohplz.vercel.app/',
   author: 'ohplz',
 
   // open graph metadata (optional)
-  description: 'personal blog',
+  description: "ohplz's blog",
 
   // social usernames (optional)
 //   twitter: 'ohplz',
