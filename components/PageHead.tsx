@@ -82,7 +82,7 @@ export const PageHead: React.FC<
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3439" key="theme-color-dark"/>
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-      <link rel ="apple-touch-icon" href="https://raw.githubusercontent.com/ohplz/nextjs-notion-starter-kit/main/public/favicon.png"/>
+      <link rel ="apple-touch-icon" href="https://raw.githubusercontent.com/ohplz/nextjs-notion-starter-kit/main/public/apple-web-app-icon.png"/>
       
       <title>{title}</title>
     </Head>
