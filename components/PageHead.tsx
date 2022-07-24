@@ -81,7 +81,7 @@ export const PageHead: React.FC<
       <meta name="theme-color" content="#fefffe" media="(prefers-color-scheme: light)" />
       <meta name="theme-color" content="#2d3439" media="(prefers-color-scheme: dark)" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
-      <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<!--       <meta name="apple-mobile-web-app-status-bar-style" content="default" /> -->
       
       <title>{title}</title>
     </Head>
