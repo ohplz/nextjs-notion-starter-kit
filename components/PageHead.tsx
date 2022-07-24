@@ -78,6 +78,7 @@ export const PageHead: React.FC<
 
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
+      <meta name="theme-color" content="#fefffe">
       <title>{title}</title>
     </Head>
   )
